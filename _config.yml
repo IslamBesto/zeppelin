@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DvFest Constantine"
 email: "bestogl2@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/DevFest-Constantine"
+baseurl: "/zeppelin"
 url: "https://islambesto.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
